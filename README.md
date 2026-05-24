@@ -60,48 +60,15 @@
 
 | 🐍 Python | 🗄️ SQL | 📊 Power BI | 📗 Excel | 🐼 Pandas | 🎨 Seaborn |
 |:---:|:---:|:---:|:---:|:---:|:---:|
-| ████████░░ 80% | ███████░░░ 70% | ██████░░░░ 65% | ████████░░ 80% | ████████░░ 80% | ███████░░░ 70% |
+| ████████░░ 80% | ███████░░░ 70% | ██████░░░░ 80% | ████████░░ 80% | ████████░░ 80% | ███████░░░ 70% |
 
 </div>
 
 ---
 
-## 🚀 What I'm Working On
-
-| Status | Project | Focus |
-|--------|---------|-------|
-| ✅ Complete | **Amazon Sales EDA** | Pricing, discounts, ratings & NLP sentiment on 1,465 products |
-| 🔨 Building | **Finance Dashboard** | Power BI dashboard for personal/business finance tracking |
-| 📐 Planning | **SQL Case Studies** | Real-world business questions solved with advanced SQL |
-| 📐 Planning | **Price Prediction Model** | XGBoost regression on the Amazon dataset |
 
 ---
 
-## 🌟 Featured Project
-
-<div align="center">
-
-[![Amazon Sales EDA](https://github-readme-stats.vercel.app/api/pin/?username=preetpatel313&repo=eda-amazon-sales-dataset&theme=tokyonight&hide_border=true&title_color=7C3AED&icon_color=F59E0B)](https://github.com/preetpatel313/eda-amazon-sales-dataset)
-
-</div>
-
-### 🛒 [Amazon Sales — Exploratory Data Analysis](https://github.com/preetpatel313/eda-amazon-sales-dataset)
-
-> End-to-end EDA on **1,465 Amazon India product listings** covering pricing, discounts, customer ratings, category performance, and NLP-based sentiment classification.
-
-| Metric | Finding |
-|--------|---------|
-| 📦 Products analysed | 1,465 |
-| 🔗 Price correlation (actual vs. discounted) | **r = 0.96** |
-| ⭐ Most common rating range | 3.8 – 4.5 ★ |
-| 🏆 Highest-rated category | Tablets (4.6 ★) |
-| 😊 Positive review sentiment | **98.2%** (TextBlob NLP) |
-| 💰 Dominant price range | ₹100 – ₹500 |
-
-**Tools:** `Python` `Pandas` `NumPy` `Matplotlib` `Seaborn` `TextBlob` `Jupyter`
-&nbsp;&nbsp;[📓 View Notebook](https://github.com/preetpatel313/eda-amazon-sales-dataset/blob/main/sales.ipynb) · [🌐 View Presentation](https://gamma.app/docs/Amazon-India-Sales-Exploratory-Data-Analysis-cngxvwl95u9x8ui)
-
----
 
 ## 🛠️ Tech Stack
 
