@@ -5,77 +5,81 @@
 
 <!-- ── HERO BANNER ─────────────────────────────────────────────── -->
 <div align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0a1a,30:1a1040,60:2d1b69,100:0f0c29&height=240&section=header&text=Preet%20Patel&fontSize=80&fontColor=ffffff&fontAlignY=40&fontAlign=50&desc=Data%20Analyst%20%E2%80%A2%20Turning%20Raw%20Data%20into%20Real%20Decisions&descAlignY=62&descSize=20&descColor=b39ddb&animation=fadeIn"/>
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=220&section=header&text=Preet%20Patel&fontSize=72&fontColor=ffffff&fontAlignY=38&fontAlign=50&desc=Data%20Analyst%20%7C%20Python%20%E2%80%A2%20SQL%20%E2%80%A2%20Power%20BI%20%E2%80%A2%20Excel&descAlignY=60&descSize=22&descColor=c9d1d9&animation=fadeIn"/>
+</div>
+<!-- ── TYPING ANIMATION ─────────────────────────────────────────── -->
+
+<div align="center">
+
+<a href="https://git.io/typing-svg">
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=7C3AED&center=true&vCenter=true&width=700&lines=Turning+raw+data+into+clear+stories;Python+%7C+SQL+%7C+Power+BI+%7C+Excel;EDA+%7C+Dashboards+%7C+Finance+Analytics;Open+to+Data+Analyst+opportunities" alt="Typing SVG" />
+
+</a>
+
 </div>
 
-<!-- ── TYPING ANIMATION ─────────────────────────────────────────── -->
-<div align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=20&pause=1200&color=9C27B0&center=true&vCenter=true&width=650&lines=📊+Transforming+messy+data+into+clear+stories;🐍+Python+%7C+SQL+%7C+Power+BI+%7C+Excel;🔍+EDA+%7C+Dashboards+%7C+Finance+Analytics;💡+Every+dataset+is+a+puzzle+—+I+solve+them;🚀+Open+to+Data+Analyst+opportunities!" alt="Typing SVG" />
-  </a>
-</div>
 
 <br/>
 
-<!-- ── SOCIAL BADGES ─────────────────────────────────────────────── -->
+<!-- ── QUICK BADGES ──────────────────────────────────────────────── -->
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Preet%20Patel-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/preet-patel-109559348)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Preet%20Patel-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/preet-patel-109559348)
 [![Gmail](https://img.shields.io/badge/Gmail-preet313313%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:preet313313@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-preetpatel313-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/preetpatel313)
 [![Profile Views](https://komarev.com/ghpvc/?username=preetpatel313&style=for-the-badge&color=7C3AED&label=PROFILE+VIEWS)](https://github.com/preetpatel313)
 
 </div>
 
-<br/>
-
 ---
 
 ## 🧑‍💻 About Me
 
-<img align="right" width="340" src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" alt="contribution snake"/>
+<table>
+  <tr>
+    <td valign="top" width="50%">
 
-```yaml
-Name     : Preet Patel
-Role     : Data Analyst
-Location : India 🇮🇳
-Status   : 💼 Open to opportunities
+### 👤 Who I Am
+- 🎯 **Role:** Data Analyst
+- 🌍 **Location:** India 🇮🇳
+- 📊 **Passion:** Turning messy data into clear, actionable insights
+- 💼 **Status:** Open to Data Analyst roles
+- 💡 **Fun Fact:** I treat every messy dataset like a puzzle waiting to be solved
 
-Passion  : Turning messy data into
-           clear, actionable insights
+    </td>
+    <td valign="top" width="50%">
 
-Currently: Learning NLP & Predictive
-           Modelling
+### 🎯 What I Do
+- 🔍 &nbsp;**Exploratory Data Analysis (EDA)**
+- 📈 &nbsp;**Dashboard Development** with Power BI
+- 🧹 &nbsp;**Data Cleaning & Preprocessing**
+- 💰 &nbsp;**Finance & Business Analytics**
+- 🤖 &nbsp;**NLP & Predictive Modelling** *(learning)*
 
-Fun Fact : I treat every messy dataset
-           like a puzzle 🧩
-```
-
-<br clear="right"/>
-
----
-
-## ⚡ What I Bring to the Table
+    </td>
+  </tr>
+</table>
 
 <div align="center">
 
-|  | Skill | What I Do |
-|:---:|:---|:---|
-| 🔍 | **Exploratory Data Analysis** | Uncover patterns, trends & hidden insights from raw datasets |
-| 📈 | **Dashboard Development** | Build interactive Power BI dashboards that drive decisions |
-| 🧹 | **Data Cleaning & Preprocessing** | Wrangle, reshape & validate data for reliable analysis |
-| 💰 | **Finance & Business Analytics** | Translate numbers into strategy for business stakeholders |
-| 🤖 | **NLP & Predictive Modelling** | *(actively learning)* — building toward ML-driven analytics |
+| 🐍 Python | 🗄️ SQL | 📊 Power BI | 📗 Excel | 🐼 Pandas | 🎨 Seaborn |
+|:---:|:---:|:---:|:---:|:---:|:---:|
+| ████████░░ 80% | ███████░░░ 70% | ██████░░░░ 80% | ████████░░ 80% | ████████░░ 80% | ███████░░░ 70% |
 
 </div>
 
 ---
 
+
+---
+
+
 ## 🛠️ Tech Stack
 
 <div align="center">
 
-### 🐍 Languages & Databases
+### 🐍 Languages & Querying
 ![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
@@ -92,7 +96,6 @@ Fun Fact : I treat every messy dataset
 ![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 ![Excel](https://img.shields.io/badge/Microsoft%20Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
-![Google Colab](https://img.shields.io/badge/Google%20Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white)
 
 ### ⚙️ Tools & Platforms
 ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
@@ -104,91 +107,25 @@ Fun Fact : I treat every messy dataset
 
 ---
 
-## 📊 Skill Proficiency
+## 💡 Data Analyst Mindset
 
 <div align="center">
 
-| Skill | Level | Proficiency |
+| 🔍 Ask the right question | 🧹 Clean before you analyse | 📊 Visualise to communicate |
 |:---:|:---:|:---:|
-| 🐍 Python | Advanced | `████████░░` 80% |
-| 🗄️ SQL | Intermediate+ | `███████░░░` 70% |
-| 📊 Power BI | Advanced | `████████░░` 80% |
-| 📗 Excel | Advanced | `████████░░` 80% |
-| 🐼 Pandas | Advanced | `████████░░` 80% |
-| 📉 Seaborn / Matplotlib | Intermediate+ | `███████░░░` 70% |
+| Every analysis starts with understanding **what problem we're solving** | Garbage in = garbage out. Data cleaning is **80% of the work** | A great chart tells the story that numbers alone never can |
 
 </div>
 
 ---
 
-## 📈 GitHub Stats
-
+<!-- ── FOOTER WAVE ───────────────────────────────────────────────── -->
 <div align="center">
 
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=preetpatel313&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=9C27B0&icon_color=7C3AED&text_color=c9d1d9&rank_icon=github" />
-&nbsp;&nbsp;
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=preetpatel313&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=9C27B0&text_color=c9d1d9&langs_count=6" />
-
-</div>
-
-<div align="center">
-  <img width="70%" src="https://github-readme-streak-stats.herokuapp.com?user=preetpatel313&theme=tokyonight&hide_border=true&background=0d1117&ring=7C3AED&fire=9C27B0&currStreakLabel=c9d1d9&sideLabels=c9d1d9&dates=6e7681" />
-</div>
-
----
-
-## 🏆 GitHub Trophies
-
-<div align="center">
-  <img width="90%" src="https://github-profile-trophy.vercel.app/?username=preetpatel313&theme=darkhub&no-frame=true&no-bg=true&margin-w=6&column=6" />
-</div>
-
----
-
-## 💡 The Data Analyst Mindset
-
-<div align="center">
-
-```
-┌─────────────────────────┐   ┌─────────────────────────┐   ┌─────────────────────────┐
-│   🔍 Ask the Right      │   │  🧹 Clean Before You    │   │  📊 Visualise to        │
-│       Question          │──▶│       Analyse           │──▶│     Communicate         │
-│                         │   │                         │   │                         │
-│ Every great analysis    │   │ Garbage in = Garbage    │   │ A great chart tells the │
-│ starts with knowing     │   │ out. Cleaning is 80%    │   │ story that numbers      │
-│ what problem we solve.  │   │ of the real work.       │   │ alone never can.        │
-└─────────────────────────┘   └─────────────────────────┘   └─────────────────────────┘
-```
-
-</div>
-
----
-
-## 📬 Let's Connect
-
-<div align="center">
-
-💼 Looking for **Data Analyst** opportunities where I can drive decisions with data.  
-Feel free to reach out — I'm always open to interesting projects and collaborations!
+*"Without data you're just another person with an opinion." 
 
 <br/>
 
-[![LinkedIn](https://img.shields.io/badge/Connect%20on%20LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/preet-patel-109559348)
-&nbsp;
-[![Email Me](https://img.shields.io/badge/Send%20an%20Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:preet313313@gmail.com)
-
-</div>
-
----
-
-<!-- ── FOOTER ────────────────────────────────────────────────────── -->
-<div align="center">
-
-*"Without data you're just another person with an opinion."*  
-— W. Edwards Deming
-
-<br/>
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:2d1b69,100:0a0a1a&height=130&section=footer"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=120&section=footer"/>
 
 </div>
