@@ -31,31 +31,38 @@
 
 ## 🧑‍💻 About Me
 
-```python
-class PreetPatel:
+<table>
+  <tr>
+    <td valign="top" width="50%">
 
-    name       = "Preet Patel"
-    role       = "Data Analyst"
-    location   = "India 🇮🇳"
+### 👤 Who I Am
+- 🎯 **Role:** Data Analyst
+- 🌍 **Location:** India 🇮🇳
+- 📊 **Passion:** Turning messy data into clear, actionable insights
+- 💼 **Status:** Open to Data Analyst roles
+- 💡 **Fun Fact:** I treat every messy dataset like a puzzle waiting to be solved
 
-    skills     = {
-        "languages"      : ["Python", "SQL"],
-        "analysis"       : ["Pandas", "NumPy", "Seaborn", "Matplotlib", "Plotly"],
-        "bi_tools"       : ["Power BI", "Excel (Advanced)", "Jupyter Notebook"],
-        "databases"      : ["MySQL", "PostgreSQL", "MongoDB"],
-        "other"          : ["FastAPI", "Git", "GitHub"],
-    }
+    </td>
+    <td valign="top" width="50%">
 
-    focus_areas = [
-        "Exploratory Data Analysis (EDA)",
-        "Dashboard Development",
-        "Finance & Business Analytics",
-        "Data Cleaning & Preprocessing",
-    ]
+### 🎯 What I Do
+- 🔍 &nbsp;**Exploratory Data Analysis (EDA)**
+- 📈 &nbsp;**Dashboard Development** with Power BI
+- 🧹 &nbsp;**Data Cleaning & Preprocessing**
+- 💰 &nbsp;**Finance & Business Analytics**
+- 🤖 &nbsp;**NLP & Predictive Modelling** *(learning)*
 
-    currently   = "📌 Building portfolio projects & open to Data Analyst roles"
-    fun_fact    = "💡 I treat every messy dataset like a puzzle waiting to be solved"
-```
+    </td>
+  </tr>
+</table>
+
+<div align="center">
+
+| 🐍 Python | 🗄️ SQL | 📊 Power BI | 📗 Excel | 🐼 Pandas | 🎨 Seaborn |
+|:---:|:---:|:---:|:---:|:---:|:---:|
+| ████████░░ 80% | ███████░░░ 70% | ██████░░░░ 65% | ████████░░ 80% | ████████░░ 80% | ███████░░░ 70% |
+
+</div>
 
 ---
 
