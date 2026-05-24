@@ -117,7 +117,7 @@
 <!-- ── FOOTER WAVE ───────────────────────────────────────────────── -->
 <div align="center">
 
-*"Without data you're just another person with an opinion." — W. Edwards Deming*
+*"Without data you're just another person with an opinion." 
 
 <br/>
 
