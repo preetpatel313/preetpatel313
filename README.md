@@ -102,33 +102,6 @@
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img height="180em" src="https://github-readme-stats.shion.dev/api?username=preetpatel313&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&show_icons=true&title_color=7C3AED&icon_color=F59E0B&text_color=c9d1d9&bg_color=0d1117"/>
-<img height="180em" src="https://github-readme-stats.shion.dev/api/top-langs/?username=preetpatel313&theme=tokyonight&hide_border=true&layout=compact&langs_count=8&title_color=7C3AED&text_color=c9d1d9&bg_color=0d1117"/>
-
-</div>
-
-<div align="center">
-  <img width="68%" src="https://streak-stats.demolab.com/?user=preetpatel313&theme=tokyonight&hide_border=true&ring=7C3AED&fire=F59E0B&currStreakLabel=7C3AED"/>
-</div>
-
-<div align="center">
-  <img width="90%" src="https://github-readme-activity-graph.vercel.app/graph?username=preetpatel313&theme=tokyo-night&hide_border=true&area=true&color=7C3AED&line=7C3AED&point=F59E0B&area_color=7C3AED"/>
-</div>
-
----
-
-## 🏆 GitHub Trophies
-
-<div align="center">
-  <img width="90%" src="https://github-profile-trophy.vercel.app/?username=preetpatel313&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=8"/>
-</div>
-
----
-
 ## 💡 Data Analyst Mindset
 
 <div align="center">
